@@ -1,9 +1,5 @@
 # BIM workbench for FreeCAD
 
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/yorikvanhavre/BIM_Workbench.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/yorikvanhavre/BIM_Workbench/context:python) [![FreeCAD Addon manager status](https://img.shields.io/badge/FreeCAD%20addon%20manager-available-brightgreen)](https://github.com/FreeCAD/FreeCAD-addons)
-
-![](https://www.freecadweb.org/wiki/images/5/5e/BIM_workbench_presentation.png
-
 ## Key Enhancements
 
 ### 3D Model Library Preview System
