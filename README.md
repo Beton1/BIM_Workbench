@@ -1,6 +1,4 @@
-# BIM workbench for FreeCAD
-
-## Key Enhancements
+## Key Enhancements In This Fork
 
 ### 3D Model Library Preview System
 Improved 2D and 3D preview capabilities in the model library browser, and added new buttons for inserting and adding models.
@@ -10,12 +8,19 @@ Improved 2D and 3D preview capabilities in the model library browser, and added 
 - Optional 3D model preview for each selected model
 - Added new buttons for inserting and adding models
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bb400ad-2d98-4e55-a518-8fdabd59cfa6" />
+
 **Implementation:**
 - Utilizes save file option to generate new images in a 512x512 resolution
 - Reference the generated images and use them as a preview for each selected file
 - Added buttons and fixed image preview display in Qt designer
 - Connected buttons in Python
 
+# BIM workbench for FreeCAD
+
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/yorikvanhavre/BIM_Workbench.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/yorikvanhavre/BIM_Workbench/context:python) [![FreeCAD Addon manager status](https://img.shields.io/badge/FreeCAD%20addon%20manager-available-brightgreen)](https://github.com/FreeCAD/FreeCAD-addons)
+
+![](https://www.freecadweb.org/wiki/images/5/5e/BIM_workbench_presentation.png)
 
 This is a [workbench](https://www.freecadweb.org/wiki/Workbench_Concept) for [FreeCAD](https://www.freecadweb.org) that implements a complete set of [Building Information Modeling](https://en.wikipedia.org/wiki/Building_information_modeling) (BIM) tools and allows a proper BIM workflow similar to professional BIM applications like Revit, ArchiCAD, Tekla, AllPlan or BricsCAD.
 
