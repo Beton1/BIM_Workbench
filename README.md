@@ -17,7 +17,8 @@ Improved 2D and 3D preview capabilities in the [FreeCAD BIM Workbench](https://g
 - High-res 2D thumbnail generation for quick visual browsing of selected models
 - Previews are generated for every library item
 - Optional 3D model preview for each selected model
-- Added new buttons for inserting and adding models
+- Changes to library models can be saved directly in the library menu
+- Added new buttons for inserting, saving and adding models
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bb400ad-2d98-4e55-a518-8fdabd59cfa6" />
 
